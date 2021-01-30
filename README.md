@@ -10,6 +10,7 @@
   <img src="https://github.com/tianqizhao-louis/tianqizhao-louis/blob/main/52554122-5957-4CA3-BE3B-3907C1703916-11532-00000816C612B7A2.jpg" width="300px" height="300px">
 </p>
 
+<hr>
 
 
 <h2>Social Media</h2>
