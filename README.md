@@ -12,6 +12,14 @@
 
 <hr>
 
+- 🔭 I’m currently working on augmented reality and web development
+- 🌱 I’m currently [learning React](https://reactjs.org/)
+- 👯 I’m looking to collaborate on college management back-end system
+- 🤔 I’m looking for help with AWS, Azure, and iOS Development
+- 💬 Ask me about Node.js, MongoDB, and Firebase
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: My favorite car is Tesla Model Y
+
 
 <h2>Social Media</h2>
 
