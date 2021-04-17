@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">I'm Tianqi Zhao</p>
-<p align="center">:school: <a href="https://www.brandeis.edu/">@Brandeis University</a> Class of 2022</p>
+<p align="center">:school: <a href="https://www.columbia.edu">@Columbia University</a> Class of 2023</p>
 <p align="center">:man_technologist: @Computer Science B.S.</p>
 
 <p align="center">
