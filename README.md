@@ -45,4 +45,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianqizhao-louis&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Contact Me</h2>
-<a href="mailto:tianqizhao@brandeis.edu"><img src="https://img.shields.io/badge/-tianqizhao@brandeis.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:tz2529@columbia.edu"><img src="https://img.shields.io/badge/-tz2529@columbia.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
