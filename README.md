@@ -15,7 +15,7 @@
 - 🔭 I’m currently doing researching on Named Entity Recognition in the Natural Language Processing field
 - 🌱 I’m currently learning Computational Neuroscience
 - 👯 I’m looking to collaborate on C++ projects
-- 🤔 I’m looking for help with C++, AWS, Azure, and Python
+- 🤔 I’m looking for help with C++, AWS, Azure, and Machine Learning
 - 💬 Ask me about Node.js, MongoDB, Python, Java, and Firebase
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
