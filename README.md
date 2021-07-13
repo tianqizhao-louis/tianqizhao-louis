@@ -21,17 +21,19 @@
 - ⚡ Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
 
 ---
-Visit me at:
+**Visit me at:**
 
 <a href="https://www.linkedin.com/in/ztianqi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 [My Personal Website - Tianqi Zhao](https://tianqizhao.com)
 
-<h2>Github Stats</h2>
+---
+
+<h3>Github Stats</h3>
 
 [![Tianqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianqizhao-louis&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianqizhao-louis&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Contact Me</h2>
+<h3>Contact Me</h3>
 <a href="mailto:tz2529@columbia.edu"><img src="https://img.shields.io/badge/-tz2529@columbia.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
