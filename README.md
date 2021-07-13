@@ -21,13 +21,12 @@
 - ⚡ Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
 
 ---
-**Visit me at:**
 
-<a href="https://www.linkedin.com/in/ztianqi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+### Learn More About Me
+
+[My LinkedIn Profile](https://www.linkedin.com/in/ztianqi/)
 
 [My Personal Website - Tianqi Zhao](https://tianqizhao.com)
-
----
 
 <h3>Github Stats</h3>
 
