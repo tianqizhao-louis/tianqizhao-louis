@@ -20,12 +20,12 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
 
-
-<h2>Social Media</h2>
+---
+Visit me at:
 
 <a href="https://www.linkedin.com/in/ztianqi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-</p>
+[My Personal Website - Tianqi Zhao](https://tianqizhao.com)
 
 <h2>Github Stats</h2>
 
