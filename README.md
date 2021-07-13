@@ -12,7 +12,7 @@
 
 <hr>
 
-- 🔭 I’m currently doing researching on Named Entity Recognition in Natural Language Processing field
+- 🔭 I’m currently doing researching on Named Entity Recognition in the Natural Language Processing field
 - 🌱 I’m currently learning Computational Neuroscience
 - 👯 I’m looking to collaborate on C++ projects
 - 🤔 I’m looking for help with C++, AWS, Azure, and Python
