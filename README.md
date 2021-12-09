@@ -28,11 +28,5 @@
 
 [My Personal Website - Tianqi Zhao](https://tianqizhao.com)
 
-<h3>Github Stats</h3>
-
-[![Tianqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianqizhao-louis&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianqizhao-louis&theme=tokyonight&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>Contact Me</h3>
 <a href="mailto:tz2529@columbia.edu"><img src="https://img.shields.io/badge/-tz2529@columbia.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
