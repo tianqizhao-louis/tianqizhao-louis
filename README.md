@@ -7,7 +7,7 @@
 <p align="center">:man_technologist: @B.S. in Computer Science</p>
 
 <p align="center">
-  <img src="0*k98Ra5UzgDrSz-vv.png" width="300px" height="300px">
+  <img src="0*k98Ra5UzgDrSz-vv.png">
 </p>
 
 <hr>
