@@ -24,7 +24,7 @@
 
 ### Learn More About Me
 
-[My LinkedIn Profile](https://www.linkedin.com/in/ztianqi/)
+<a href="https://www.linkedin.com/in/ztianqi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 [My Personal Website - Tianqi Zhao](https://tianqizhao.com)
 
