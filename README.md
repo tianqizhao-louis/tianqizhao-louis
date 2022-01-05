@@ -29,4 +29,5 @@
 <a href="https://tianqizhao.com"><img src="https://img.shields.io/badge/My%20Personal%20Website-Tianqi%20Zhao-important?style=for-the-badge"></a>
 
 <h3>Contact Me</h3>
-<a href="mailto:tz2529@columbia.edu"><img src="https://img.shields.io/badge/-tz2529@columbia.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+<a href="mailto:tz2529@columbia.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
