@@ -26,7 +26,7 @@
 
 <a href="https://www.linkedin.com/in/ztianqi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-[My Personal Website - Tianqi Zhao](https://tianqizhao.com)
+<a href="https://tianqizhao.com"><img src="https://img.shields.io/badge/My%20Personal%20Website-Tianqi%20Zhao-important?style=for-the-badge"></a>
 
 <h3>Contact Me</h3>
 <a href="mailto:tz2529@columbia.edu"><img src="https://img.shields.io/badge/-tz2529@columbia.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
