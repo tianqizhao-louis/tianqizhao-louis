@@ -4,7 +4,7 @@
 
 <p align="center">I'm Tianqi Zhao</p>
 <p align="center">:school: <a href="https://www.columbia.edu">@Columbia University</a> Class of 2023</p>
-<p align="center">:man_technologist: @B.S. in Computer Science</p>
+<p align="center">:man_technologist: B.S. in Computer Science</p>
 
 <p align="center">
   <img src="0*k98Ra5UzgDrSz-vv.png" width="350px" height="270px">
