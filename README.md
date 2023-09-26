@@ -2,9 +2,9 @@
 
 <hr>
 
-<p align="center">I'm Tianqi Zhao</p>
-<p align="center">:school: <a href="https://www.columbia.edu">@Columbia University</a> Class of 2023</p>
-<p align="center">:man_technologist: B.S. in Computer Science</p>
+<p align="center">I'm Louis Zhao</p>
+<p align="center">:school: <a href="https://www.columbia.edu">@Columbia University</a> Class of 2023 -> Class of 2024</p>
+<p align="center">:man_technologist: B.S. in Computer Science -> M.S. in Biomedical Engineering</p>
 
 <p align="center">
   <img src="0*k98Ra5UzgDrSz-vv.png" width="350px" height="270px">
@@ -12,19 +12,19 @@
 
 <hr>
 
-- 🔭 I’m currently doing researching on Named Entity Recognition in the Natural Language Processing field
-- 🌱 I’m currently learning Computational Neuroscience
-- 👯 I’m looking to collaborate on C++ projects
-- 🤔 I’m looking for help with C++, AWS, Azure, and Machine Learning
-- 💬 Ask me about Node.js, MongoDB, Python, Java, and Firebase
+- 🔭 I’m currently learning neuroscience
+- 🌱 I’m currently doing research in neuroscience and neuro diseases
+- 👯 I’m looking to collaborate on Python projects
+- 🤔 I’m looking for help with Biology, Chemistry and Neuroscience
+- 💬 Ask me about Python Flask, Java, MySQL, and MongoDB
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
+- ⚡ Fun fact: I’m currently reading *Elon Musk* by Walter Isaacson
 
 ---
 
 ### Learn More About Me
 
-<a href="https://www.linkedin.com/in/ztianqi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/louistz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="https://tianqizhao.com"><img src="https://img.shields.io/badge/My%20Personal%20Website-Tianqi%20Zhao-important?style=for-the-badge"></a>
 
